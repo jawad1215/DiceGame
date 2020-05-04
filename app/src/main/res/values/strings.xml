@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="imageDesc">Dice Image</string>
+    <string name="let_s_roll">Let\'s Roll</string>
+    <string name="how_to_play_press_the_roll_button">How to play? Press the Roll Button</string>
+    <string name="reset">Reset</string>
+</resources>
